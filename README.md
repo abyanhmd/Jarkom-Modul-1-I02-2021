@@ -4,7 +4,7 @@ Made by:
 
 Abyan Ahmad (05111942000013)
 
-Gede Yoga Arisudana (051119420000098)
+Gede Yoga Arisudana (05111942000009)
 
 Zulfiqar Rahman Aji (05111942000019)
 
