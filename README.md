@@ -24,10 +24,13 @@ Zulfiqar Rahman Aji (05111942000019)
 
 
 ## Problem 6
-
+The display filter to find the username is `ftp contains USER`
+![6-USER](/Screenshot/6-USER.png)
+The display filter to find the password is `ftp contains PASS`
+![6-PASS](/Screenshot/6-PASS.png)
 
 ## Problem 7
-
+The display filter to find Real.pdf is `ftp-data contains Real.pdf`
 
 ## Problem 8
 
