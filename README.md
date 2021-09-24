@@ -31,6 +31,7 @@ The display filter to find the password is `ftp contains PASS`
 
 ## Problem 7
 The display filter to find Real.pdf is `ftp-data contains Real.pdf`
+![Screenshot (574)](https://user-images.githubusercontent.com/74660281/134616721-652efadb-568e-4ae8-a8c7-dea33faac859.png)
 
 ## Problem 8
 The display filter to show the retrieval of files is `ftp.request.arg`
