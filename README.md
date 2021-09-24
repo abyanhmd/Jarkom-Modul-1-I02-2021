@@ -9,19 +9,31 @@ Gede Yoga Arisudana (05111942000009)
 Zulfiqar Rahman Aji (05111942000019)
 
 ## Problem 1
-
+Diplay Filter: `http.request.full_uri contains "ichimarumaru.tech"`
+![1](https://user-images.githubusercontent.com/68783399/134676217-b8fa65ef-7e1b-4f70-8217-3f2b300732ea.jpeg)
+From the image, the webserver is nginx/1.18.0 (Ubuntu)
 
 ## Problem 2
-
+Display Filter: `http.authbasic`
+![2](https://user-images.githubusercontent.com/68783399/134676237-4ed2a612-e378-4568-99f1-aeeb707b5aa5.jpeg)
 
 ## Problem 3
-
+From the authbasic favicon, we can see that the username and password as below
+![3 1](https://user-images.githubusercontent.com/68783399/134676261-8c23010c-df09-4b88-bd07-0c357fca06c3.jpeg)
+Username: kuncimenujulautan
+Password: tQKEJFbgNGC1NCZlWAOjhyCOm6o3xEbPkJhTciZN
+![3 2](https://user-images.githubusercontent.com/68783399/134676278-a66bb2ac-5de8-479e-b709-750f32c920e9.jpeg)
 
 ## Problem 4
-
+Display Filter: `mysql contains select`
+![4](https://user-images.githubusercontent.com/68783399/134676302-089e2576-f0f0-4c3f-9c40-0d4297779f3a.jpeg)
 
 ## Problem 5
-
+From the sql files, we can see that the 
+![5 1](https://user-images.githubusercontent.com/68783399/134676328-c42a2cfd-31ce-4017-901b-a1d602738c82.jpeg)
+Username: akakanomi
+Password: pemisah4lautan
+![5 2](https://user-images.githubusercontent.com/68783399/134676348-2b51ca54-3772-442d-b158-a97958414a02.jpeg)
 
 ## Problem 6
 The display filter to find the username is `ftp contains USER`
