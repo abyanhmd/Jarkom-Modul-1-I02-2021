@@ -33,13 +33,18 @@ The display filter to find the password is `ftp contains PASS`
 The display filter to find Real.pdf is `ftp-data contains Real.pdf`
 
 ## Problem 8
-
+The display filter to show the retrieval of files is `ftp.request.arg`
+![8](Screenshot/8.png)
 
 ## Problem 9
-
+The display filter to find *secret.zip* is `ftp-data.command contains "secret.zip"` and the content inside the zip file is *Wanted.pdf*.
+![9](Screenshot/9.png)
 
 ## Problem 10
-
+In order to open the *secret.zip*, we need to find the passsword from *history.txt*. The display filter to find *history.txt* is `ftp-data.command contains "history.txt"`. 
+![10-History](Screenshot/10-History.png)
+From the image above, we can see that the key of *secret.zip* is in *bukanapaapa.txt*. The display filter to find *bukanapaapa.txt* is `ftp-data.command contains "bukanapaapa.txt"`.
+![10-BukanApaApa](Screenshot/10-BukanApaApa.png)
 
 ## Problem 11
 ![Screenshot (583)](https://user-images.githubusercontent.com/74660281/134458818-a414fa6b-9ba7-4ecb-a0da-d844c63111b8.png)
